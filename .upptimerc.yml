@@ -13,6 +13,8 @@ sites:
     url: https://www.mujdash.cz/
   - name: Summit Tattoo
     url: https://summittattoo.cz/
+  - name: Buclík detailing
+    url: https://buclik.cz/
 status-website:
   cname: ""
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
