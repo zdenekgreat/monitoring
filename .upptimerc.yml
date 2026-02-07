@@ -27,6 +27,8 @@ sites:
     url: https://shaka.cz
   - name: Lyže Osek
     url: https://lyzeosek.cz
+  - name: Stepmother
+    url: https://stepmother.cz
 status-website:
   cname: ""
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
