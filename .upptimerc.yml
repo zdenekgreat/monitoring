@@ -5,6 +5,8 @@ sites:
     url: https://www.exil.cz
   - name: Dětské Skicentrum
     url: https://detskeskicentrum.cz
+  - name: Pujčovna OL
+    url: https://pujcovnalyziolomouc.cz/
 status-website:
   cname: ""
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
