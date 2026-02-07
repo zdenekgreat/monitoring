@@ -9,6 +9,8 @@ sites:
     url: https://pujcovnalyziolomouc.cz/
   - name: Go Ski
     url: https://goski.cz
+  - name: Můjdash.cz
+    url: https://www.mujdash.cz/
 status-website:
   cname: ""
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
