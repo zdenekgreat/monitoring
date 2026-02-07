@@ -21,6 +21,8 @@ sites:
     url: https://greatlab.cz
   - name: Great Mind
     url: https://greatmind.cz
+  - name: Tvuj osobní kouč
+    url: https://tvujosobnikouc.cz
 status-website:
   cname: ""
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
