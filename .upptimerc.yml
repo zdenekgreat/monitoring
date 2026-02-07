@@ -11,6 +11,8 @@ sites:
     url: https://goski.cz
   - name: Můjdash.cz
     url: https://www.mujdash.cz/
+  - name: Summit Tattoo
+    url: https://summittattoo.cz/
 status-website:
   cname: ""
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
