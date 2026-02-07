@@ -17,6 +17,8 @@ sites:
     url: https://buclik.cz/
   - name: Great Idea
     url: https://greatidea.cz
+  - name: Great Lab
+    url: https://greatlab.cz
 status-website:
   cname: ""
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
