@@ -7,11 +7,6 @@ sites:
     url: https://detskeskicentrum.cz
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: tcp-ping
-    ipv6: true
 status-website:
   cname: ""
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
