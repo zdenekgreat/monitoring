@@ -19,6 +19,8 @@ sites:
     url: https://greatidea.cz
   - name: Great Lab
     url: https://greatlab.cz
+  - name: Great Mind
+    url: https://greatmind.cz
 status-website:
   cname: ""
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
