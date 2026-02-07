@@ -25,6 +25,8 @@ sites:
     url: https://tvujosobnikouc.cz
   - name: Můj Dashboard
     url: https://mujdashboard.cz
+  - name: Shaka
+    url: https://shaka.cz
 status-website:
   cname: ""
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
