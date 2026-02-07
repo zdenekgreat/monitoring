@@ -5,8 +5,6 @@ sites:
     url: https://www.exil.cz
   - name: Dětské Skicentrum
     url: https://detskeskicentrum.cz
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 status-website:
   cname: ""
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
