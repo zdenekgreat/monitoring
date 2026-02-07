@@ -25,6 +25,8 @@ sites:
     url: https://mujdashboard.cz
   - name: Shaka
     url: https://shaka.cz
+  - name: Lyže Osek
+    url: https://lyzeosek.cz
 status-website:
   cname: ""
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
