@@ -29,6 +29,8 @@ sites:
     url: https://lyzeosek.cz
   - name: Stepmother
     url: https://stepmother.cz
+  - name: Olkraj
+    url: https://olkraj.cz
 status-website:
   cname: ""
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
