@@ -4,63 +4,69 @@
     "url": "https://www.exil.cz",
     "icon": "https://icons.duckduckgo.com/ip3/www.exil.cz.ico",
     "slug": "exil",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 2337,
     "timeDay": 2693,
     "timeWeek": 2337,
     "timeMonth": 2337,
     "timeYear": 2337,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-13": 4
+    }
   },
   {
     "name": "Dětské Skicentrum",
     "url": "https://detskeskicentrum.cz",
     "icon": "https://icons.duckduckgo.com/ip3/detskeskicentrum.cz.ico",
     "slug": "detske-skicentrum",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1743,
     "timeDay": 2567,
     "timeWeek": 1743,
     "timeMonth": 1743,
     "timeYear": 1743,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-13": 3
+    }
   },
   {
     "name": "Pujčovna OL",
     "url": "https://pujcovnalyziolomouc.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/pujcovnalyziolomouc.cz.ico",
     "slug": "pujcovna-ol",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1614,
     "timeDay": 755,
     "timeWeek": 1614,
     "timeMonth": 1614,
     "timeYear": 1614,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-13": 3
+    }
   },
   {
     "name": "Go Ski",
     "url": "https://goski.cz",
     "icon": "https://icons.duckduckgo.com/ip3/goski.cz.ico",
     "slug": "go-ski",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.84%",
     "uptimeWeek": "99.12%",
     "uptimeMonth": "99.12%",
     "uptimeYear": "99.12%",
@@ -70,6 +76,7 @@
     "timeMonth": 2894,
     "timeYear": 2894,
     "dailyMinutesDown": {
+      "2026-02-13": 2,
       "2026-02-11": 67
     }
   },
@@ -96,54 +103,59 @@
     "url": "https://summittattoo.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/summittattoo.cz.ico",
     "slug": "summit-tattoo",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 1226,
     "timeDay": 1263,
     "timeWeek": 1226,
     "timeMonth": 1226,
     "timeYear": 1226,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-13": 2
+    }
   },
   {
     "name": "Buclík detailing",
     "url": "https://buclik.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/buclik.cz.ico",
     "slug": "buclik-detailing",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1270,
     "timeDay": 1223,
     "timeWeek": 1270,
     "timeMonth": 1270,
     "timeYear": 1270,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-13": 2
+    }
   },
   {
     "name": "Great Idea",
     "url": "https://greatidea.cz",
     "icon": "https://icons.duckduckgo.com/ip3/greatidea.cz.ico",
     "slug": "great-idea",
-    "status": "up",
-    "uptime": "99.05%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "99.05%",
+    "status": "down",
+    "uptime": "99.07%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.07%",
     "time": 1027,
     "timeDay": 936,
     "timeWeek": 1027,
     "timeMonth": 1027,
     "timeYear": 1027,
     "dailyMinutesDown": {
+      "2026-02-13": 1,
       "2026-02-08": 72
     }
   },
@@ -152,36 +164,40 @@
     "url": "https://greatlab.cz",
     "icon": "https://icons.duckduckgo.com/ip3/greatlab.cz.ico",
     "slug": "great-lab",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 3510,
     "timeDay": 2615,
     "timeWeek": 3510,
     "timeMonth": 3510,
     "timeYear": 3510,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-13": 1
+    }
   },
   {
     "name": "Tvuj osobní kouč",
     "url": "https://tvujosobnikouc.cz",
     "icon": "https://icons.duckduckgo.com/ip3/tvujosobnikouc.cz.ico",
     "slug": "tvuj-osobni-kouc",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1218,
     "timeDay": 1162,
     "timeWeek": 1218,
     "timeMonth": 1218,
     "timeYear": 1218,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-13": 0
+    }
   },
   {
     "name": "Můj Dashboard",
@@ -224,9 +240,9 @@
     "url": "https://lyzeosek.cz",
     "icon": "https://icons.duckduckgo.com/ip3/lyzeosek.cz.ico",
     "slug": "lyze-osek",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -235,7 +251,9 @@
     "timeWeek": 1635,
     "timeMonth": 1635,
     "timeYear": 1635,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-13": 0
+    }
   },
   {
     "name": "Stepmother",
